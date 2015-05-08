@@ -1,4 +1,4 @@
-# InstScraper
+# InstaScraper
 Download all images of a public Instagram account. This is a 2 part VERY RELIABLE process.
 
 #Part 1 - insta-chrome.js
