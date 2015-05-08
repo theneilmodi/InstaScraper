@@ -3,7 +3,7 @@
 $name = "some-name"; // change accordingly
 mkdir("pics/" . $name);
 
-$json = file_get_contents("bryan.json");
+$json = file_get_contents("links.json");
 $pics = json_decode($json);
 
 for($i = 0; $i<sizeof($pics); $i++){
