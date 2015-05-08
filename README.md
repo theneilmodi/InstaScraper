@@ -13,4 +13,4 @@ Change the name variable, this is the folder name. Run the PHP script. There sho
 #Problems
 
 - Sometimes there might be a couple of pictures that repeat
-- You might not get all the images you want the first time (not often, changing the imagesToGet variable in the .js file helps with that)
+- You might not get all the images you want the first time (not often, but changing the imagesToGet variable in the .js file helps with that)
