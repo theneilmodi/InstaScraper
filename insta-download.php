@@ -1,6 +1,6 @@
 <?php
 
-$name = "pizzatoday"; // change accordingly
+$name = "some-name"; // change accordingly
 mkdir("pics/" . $name);
 
 $json = file_get_contents("bryan.json");
