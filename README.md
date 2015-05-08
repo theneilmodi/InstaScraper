@@ -1,4 +1,4 @@
-# Instagram-Scrapper
+# InstScraper
 Download all images of a public Instagram account. This is a 2 part VERY RELIABLE process.
 
 #Part 1 - insta-chrome.js
@@ -8,7 +8,7 @@ This will open a window with lots of links (it's a JSON object). Copy and save t
 
 #Part 2 - insta-download.php
 
-Change the name variable, this is the folder name. Run the PHP script. There should now be a folder called pics in the same directory with your folder filled with images.
+Change the name variable, for a suitable folder name. Run the PHP script. There should now be a folder called pics in the same directory with your folder filled with images.
 
 #Problems
 
